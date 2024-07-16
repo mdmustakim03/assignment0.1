@@ -181,9 +181,9 @@ height: 72px;
     text-align: center;
     width: 1140px;
     height: 777px;
-    /* background-color: blue; */
     margin: auto;
     margin-bottom: 181px;
+    
 }
 .div3-h3{
     text-align: center;
@@ -388,3 +388,66 @@ border-radius: 8px;
 
 background: rgb(255, 255, 255);
  }
+
+ footer{
+    max-width:1140px ;
+    margin: 0 auto;
+   
+}
+.final{
+    background-image:url(../assets/handshake.jpg);
+    width: 1140px;
+    height: 313px;
+    padding: auto;
+    border-radius: 16px;
+    
+}
+.final-heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    color: #FFFFFF;
+   padding-top: 64px;
+}
+.final-para{
+    text-align: center;
+    color: #FFFFFF;
+    max-width:600px ;
+    margin: 0 auto;
+}
+.last-input{
+    text-align: center;
+    font-weight: 800px;
+    font-size: 57px;
+    
+    
+}
+.mango{
+    height: 57px;
+    width: 548px ;
+}
+.mango2{
+    height: 57px;
+    width: 120px;
+}
+.final-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 32px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+    
+.final2{
+    background-color: beige;
+   max-width: 1440px;
+   margin: 0 auto;
+}
+.icon9{
+  gap: 15px;
+
+}
+.sui{
+    max-width: 1440px;
+    margin: 0 auto;
+}
