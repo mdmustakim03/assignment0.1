@@ -320,3 +320,71 @@ letter-spacing: 0%;
 text-align: left;
 text-decoration-line: underline;
  }
+
+
+ /* part-5 */
+
+  .divition5{
+    margin: auto;
+    background-image: url('../assets/handshake.jpg');
+    background-position: 50%;
+    width: 1140px ;
+    height:314px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+ 
+}
+
+ .div5-h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 16px;
+ }
+
+ .div5-p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 24px;
+ }
+ .div5-input{
+    text-align: center;
+    
+ }
+ textarea{
+    width: 540px;
+    height: 57px;
+ }
+ .div5-btn{
+    width: 120px;
+    height: 58px;
+    border-radius: 8px;
+
+background: rgb(255, 255, 255);
+ }
+ .div5-type{
+    width: 540px;
+    height: 57px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+
+background: rgb(255, 255, 255);
+ }
