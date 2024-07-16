@@ -221,3 +221,102 @@ margin-bottom: 48px;
     width: 1076px;
     height: 550px;
  }
+
+ /* part-4 */
+.divition4{
+    width: 1140px;
+    height: 460px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+#div4-h3{
+text-align: center;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+#div4-p{
+text-align: center;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+text-align: justify;
+margin-bottom: 48px;
+}
+ .div4-parent  {
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 330px;
+    padding: 40px;
+ }
+ .div4-child{
+    
+    width: 364px;
+    height: 320px;
+ }
+ #id1{
+    border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+ }
+ #id2{
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+ }
+#id3{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+}
+ .div4-img{
+    margin-top: 20px;
+ }
+ .div4-child>img{
+    margin-top: 10px;
+    width: 56px;
+height: 56px;
+ }
+ .div4-child>h4{
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+ }
+ .div4-child .sec4-p{
+    margin-top: 10px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-bottom: 24px;
+ }
+
+ .div4-child .sec4-a{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+ }
